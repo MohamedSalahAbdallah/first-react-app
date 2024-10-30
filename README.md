@@ -40,17 +40,6 @@ The `Message` component displays the count of advice pieces read.
 
 This app uses the [Advice Slip JSON API](https://api.adviceslip.com/) to fetch random advice.
 
-## Future Improvements
-
-- Add error handling for API requests
-- Implement loading states
-- Allow users to save their favorite pieces of advice
-- Add categories or tags for different types of advice
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
